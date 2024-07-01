@@ -1,9 +1,16 @@
 h1,
 h2,
-p{
+p,
+li{
     text-align: center;
 }
 
-p{
+li{
+    list-style: none;
+}
+
+p,
+li{
     font-size: 30px;
 }
+
